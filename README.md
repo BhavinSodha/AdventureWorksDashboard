@@ -1,14 +1,14 @@
 <center> 
  
- **AdventureWorks Dashboard** 
+**AdventureWorks Dashboard** 
  
- A dashboard created by analysing microsofts AdventurWorks dataset.
+A dashboard created by analysing Microsoft's AdventureWorks dataset.
  
- 
-**Project Status** 
+Macros need to be enabled in order for anything to work.
 
-Dashboard created and updated. AWS and SQL scripts to be added.
+The SQL script was run on SSMS connecting to an AWS RDS instance where I restored the AdventureWorks Database.
 
+The process to create the AWS Instances and load the Dataset will be added.
 
 **Sources**
 
